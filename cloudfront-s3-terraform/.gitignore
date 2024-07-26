@@ -1,0 +1,5 @@
+# Ignore Terraform state files and provider binaries
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+*.exe
